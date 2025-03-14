@@ -13,6 +13,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm **Saikat Pal**. I’m an Aspiring Data Scientist professional and passionate Blogger on a mission to share knowledge and make working with data enjoyable and engaging!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
+www.linkedin.com/in/saikat-pal-605888187
 
 
 
